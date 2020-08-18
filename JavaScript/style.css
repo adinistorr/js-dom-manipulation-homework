@@ -1,0 +1,32 @@
+body {
+    height: 100vh;
+}
+
+.empty-avatar {
+    height: -webkit-fill-available;
+}
+
+.second-column {
+    width: 260px;
+    height: 360px;
+}
+
+.small {
+    font-size: 60%;
+}
+
+.radio-buttons{
+    padding-bottom: .5em;
+}
+
+#message {
+    margin-bottom: 1.2em;
+}
+
+.red-border {
+    border: 1px solid red;
+}
+
+.confirm-banner {
+    min-width: 28vw;
+}
